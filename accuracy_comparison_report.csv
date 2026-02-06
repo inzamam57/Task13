@@ -1,0 +1,3 @@
+Model,Accuracy
+Logistic Regression (Original Features),0.95625
+Logistic Regression (PCA Reduced),0.95625
